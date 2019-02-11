@@ -1,11 +1,11 @@
-# Something about R: 
+# Something about R Shiny: 
 
 
-##DataCamp Shiny Track
+## DataCamp Shiny Track
 <https://www.datacamp.com/tracks/shiny-fundamentals-with-r>
 
-##Shniy Tutorial in Chinese
+## Shniy Tutorial in Chinese
 <http://yanping.me/shiny-tutorial/#welcome>
 
-##Official Shiny Tutorial
+## Official Shiny Tutorial
 <https://shiny.rstudio.com/tutorial/>
